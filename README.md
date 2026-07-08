@@ -6,17 +6,17 @@ This sound pack is compliant with the **Coding Event Sound Protocol (CESP) v1.0*
 
 ## Categories & Sounds
 
-Each category contains 10 carefully selected iconic quotes:
+Each category contains carefully selected iconic quotes:
 
-- **`session.start`**: Greetings and start of session quotes (e.g., *Čau zlatko*, *V maskantje se nedáme*, *Richard Batsbak*, etc.)
-- **`task.acknowledge`**: Processing / Acknowledged quotes (e.g., *Obednal*, *Ja to upracem*, *Ututláte to*, etc.)
-- **`task.complete`**: Success / Completion quotes (e.g., *Dobrá práca chalan*, *Kurva to sa ti podarilo*, *Špica*, *Rickert už nieje panic*, etc.)
-- **`task.error`**: Error / Failure quotes (e.g., *Ty kretén*, *Kurna kurna kurna*, *No dopiče*, *No doriti*, etc.)
-- **`input.required`**: Waiting for user action or permission (e.g., *Cože pomoc?*, *Čo si povedal?*, *Neviem*, etc.)
-- **`resource.limit`**: Limit hit / Money issues (e.g., *Nemám prachy ty kokot*, *Daj nám viac prachov pičus*, *Vydrbaná sprostá kríza*, etc.)
-- **`user.spam`**: Spam / Too fast inputs (e.g., *Drž hubu ty vytrasený pičus*, *A teraz vypadni*, *Vypadnite debili*, etc.)
+- **`session.start`**: Greetings and start of session quotes (e.g., *Čau zlatko*, *Čo tak kukáte*, *Napiš si naše mená ty exot*)
+- **`task.acknowledge`**: Processing / Acknowledged quotes (e.g., *Obednal*, *Ja to upracem*, *Zkus ma zastaviť*, etc.)
+- **`task.complete`**: Success / Completion quotes (e.g., *Dobrá práca chalan*, *Kurva to sa ti podarilo*, *Špica*, etc.)
+- **`task.error`**: Error / Failure quotes (e.g., *Kurna kurna kurna*, *No dopiče*, *No doriti*, etc.)
+- **`input.required`**: Waiting for user action or permission (e.g., *Cože pomoc*, *Čo si povedal*, *Neviem*, etc.)
+- **`resource.limit`**: Limit hit / Money issues (e.g., *Nemám prachy ty kokot*, *Daj nám viac prachov pičus*, *Ty malá kurva, visíš mi prachy*)
+- **`user.spam`**: Spam / Too fast inputs (e.g., *Drž hubu ty vytrasený pičus*, *Drž už hubu ty štetka*, *Toto nebudeme tolerovať*, etc.)
 - **`session.end`**: Exit / Bye quotes (e.g., *Majsa*, *Tak sa maj*, *Poďme na pivo*, etc.)
-- **`task.progress`**: Long task running checks (e.g., *Som v pohode*, *Pianko pohodíčka*, *Pokročili prekvapivo rýchlo*, etc.)
+- **`task.progress`**: Long task running checks (e.g., *Som v pohode*, *Pianko pohodíčka*, *Pokročili prekvapivo rýchlo*)
 
 ## Installation & Activation
 
