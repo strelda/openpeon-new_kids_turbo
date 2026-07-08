@@ -18,9 +18,29 @@ Each category contains 10 carefully selected iconic quotes:
 - **`session.end`**: Exit / Bye quotes (e.g., *Majsa*, *Tak sa maj*, *Poďme na pivo*, etc.)
 - **`task.progress`**: Long task running checks (e.g., *Som v pohode*, *Pianko pohodíčka*, *Pokročili prekvapivo rýchlo*, etc.)
 
-## 🚀 How to Use
+## 🚀 Installation & Activation
 
-To use this sound pack in an OpenPeon-compliant environment, install it using the registry or point your client directly to this repository.
+To use this sound pack in an OpenPeon-compliant environment, follow these instructions to install it manually:
+
+### 1. Clone from GitHub
+Create the standard OpenPeon packs directory if it doesn't exist, and clone this repository into it under the name `new-kids-turbo`:
+```bash
+mkdir -p ~/.openpeon/packs
+git clone git@github.com:strelda/openpeon-new_kids_turbo.git ~/.openpeon/packs/new-kids-turbo
+```
+
+### 2. Verify Directory Structure
+Ensure the cloned repository is correctly positioned:
+* **Manifest path:** `~/.openpeon/packs/new-kids-turbo/openpeon.json`
+* **Sounds directory:** `~/.openpeon/packs/new-kids-turbo/sounds/`
+
+### 3. How to Activate
+Once cloned into the correct directory, activate the sound pack within your client:
+* **For CLI tools or IDE extensions:** Open your client configuration (e.g., config file or settings) and set the active sound pack name to `new-kids-turbo`.
+* **Via command line (if supported by your client):**
+  ```bash
+  peon-ping select new-kids-turbo
+  ```
 
 ## 📄 License
 
