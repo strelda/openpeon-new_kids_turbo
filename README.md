@@ -1,8 +1,8 @@
-# New Kids Turbo Sound Pack for OpenPeon (CESP v1.0)
+# New Kids Turbo Sound Pack for [OpenPeon](https://openpeon.com) (CESP v1.0)
 
 A Slovak/Czech sound pack featuring classic voice lines from the comedy movie **New Kids Turbo** (featuring Richard, Robbie, Rikkert, Barry, and Gerrie).
 
-This sound pack is compliant with the **Coding Event Sound Protocol (CESP) v1.0** specification and can be loaded into any compatible agentic IDE (like Claude Code, Cursor, Codex, etc.).
+This sound pack is compliant with the **Coding Event Sound Protocol (CESP) v1.0** specification (see the [OpenPeon Specification](https://openpeon.com)) and can be loaded into any compatible agentic IDE (like Claude Code, Cursor, Codex, etc.).
 
 ## Categories & Sounds
 
@@ -20,7 +20,7 @@ Each category contains 10 carefully selected iconic quotes:
 
 ## Installation & Activation
 
-To use this sound pack in an OpenPeon-compliant environment, follow these instructions to install it manually:
+To use this sound pack in an [OpenPeon](https://openpeon.com)-compliant environment, follow these instructions to install it manually:
 
 ### 1. Clone from GitHub
 Create the standard OpenPeon packs directory if it doesn't exist, and clone this repository into it under the name `new-kids-turbo`:
@@ -42,7 +42,7 @@ Once cloned into the correct directory, activate the sound pack within your clie
 peon packs use new-kids-turbo
 ```
 ### 4. Test the Sound Pack
-After activation, test the sound pack by triggering various events in your IDE or client. To test it, see cathegories above and run e.g.
+After activation, test the sound pack by triggering various events in your IDE or client. To test it, see categories above and run e.g.
 ```bash
 peon preview task.complete
 ```
