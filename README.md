@@ -4,7 +4,7 @@ A Slovak/Czech sound pack featuring classic voice lines from the comedy movie **
 
 This sound pack is compliant with the **Coding Event Sound Protocol (CESP) v1.0** specification and can be loaded into any compatible agentic IDE (like Claude Code, Cursor, Codex, etc.).
 
-## 🎧 Categories & Sounds
+## Categories & Sounds
 
 Each category contains 10 carefully selected iconic quotes:
 
@@ -18,7 +18,7 @@ Each category contains 10 carefully selected iconic quotes:
 - **`session.end`**: Exit / Bye quotes (e.g., *Majsa*, *Tak sa maj*, *Poďme na pivo*, etc.)
 - **`task.progress`**: Long task running checks (e.g., *Som v pohode*, *Pianko pohodíčka*, *Pokročili prekvapivo rýchlo*, etc.)
 
-## 🚀 Installation & Activation
+## Installation & Activation
 
 To use this sound pack in an OpenPeon-compliant environment, follow these instructions to install it manually:
 
@@ -42,6 +42,6 @@ Once cloned into the correct directory, activate the sound pack within your clie
   peon-ping select new-kids-turbo
   ```
 
-## 📄 License
+## License
 
 This sound pack is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)** license. The original audio snippets belong to the creators of the movie *New Kids Turbo*.
