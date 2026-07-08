@@ -41,6 +41,11 @@ Once cloned into the correct directory, activate the sound pack within your clie
 ```bash
 peon packs use new-kids-turbo
 ```
+### 4. Test the Sound Pack
+After activation, test the sound pack by triggering various events in your IDE or client. To test it, see cathegories above and run e.g.
+```bash
+peon preview task.complete
+```
 
 ## License
 
