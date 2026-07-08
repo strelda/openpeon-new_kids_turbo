@@ -1,0 +1,501 @@
+{
+  "cesp_version": "1.0",
+  "name": "new-kids-turbo",
+  "display_name": "New Kids Turbo Sound Pack",
+  "version": "1.0.0",
+  "description": "CZ/SK soundboard featuring classic voice lines from the movie New Kids Turbo.",
+  "author": {
+    "name": "strelda",
+    "github": "strelda"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "sk",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/02501_cau_zlatko.mp3",
+          "label": "Čau zlatko",
+          "sha256": "d89ce66685dabe2b4cf0d21d23f20486e9a20f9c8fcf930a898a81649dd34a78"
+        },
+        {
+          "file": "sounds/00239_co_tak_kukate.mp3",
+          "label": "Čo tak kukate",
+          "sha256": "b888c1bb43a88ef1d0e8aa202e41983019ba9a4c496238c0f42d3e1724be9112"
+        },
+        {
+          "file": "sounds/00804_urobis_co_ti_poviem.mp3",
+          "label": "Urobis co ti poviem",
+          "sha256": "a78fedd8859558ea6e2fd7a1448dc4b75f00488be0dc75d920bf33a120e04311"
+        },
+        {
+          "file": "sounds/11218_v_maskantje_se_nedame.mp3",
+          "label": "V maskantje se nedame",
+          "sha256": "51f852977b8388f41abbd1fd92ee6d4b746aa89861c7500ee47f620e9d384d35"
+        },
+        {
+          "file": "sounds/01752_napis_si_nase_mena_ty_exot.mp3",
+          "label": "Napiš si naše mená ty exot",
+          "sha256": "bb420c6e841e6e1fe87fc978c982ae7f51886dbae49b49bbee999ccfed9d39ac"
+        },
+        {
+          "file": "sounds/01756_richard_batsbak.mp3",
+          "label": "Richard batsbak",
+          "sha256": "3e6179c7ef079d14ac97f31df5da8f1f7c5096b9a6f07f8165e9d5060f83f7f7"
+        },
+        {
+          "file": "sounds/01759_robbie_schurmans.mp3",
+          "label": "Robbie schurmans",
+          "sha256": "13c3e12895c4f92df4ae73eb4f5a27cae88820c513fdfa9ca184bdab609f21a5"
+        },
+        {
+          "file": "sounds/01801_rickert_bimants.mp3",
+          "label": "Rickert bimants",
+          "sha256": "10f0a8077a3980115ff7e10534a020367d03104d0c3228c5bf41ef053ef9acf3"
+        },
+        {
+          "file": "sounds/01803_barry_butsers.mp3",
+          "label": "Barry butsers",
+          "sha256": "86744a495c9eebe052e6d6127449fba554cc92ecf8cdea6b711a233b6d401420"
+        },
+        {
+          "file": "sounds/00739_pianko_pohodicka.mp3",
+          "label": "Pianko pohodicka",
+          "sha256": "4fabfad94516bded84e0ef0cb780ee45e8e33889e3477b7acfe51676f67b8c6b"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/00420_obednal.mp3",
+          "label": "Obednal",
+          "sha256": "5b54c4d2afa2ebb50a7d3d6d43f0eb42a3c78de904bd9a6b1f63f291040e0ccd"
+        },
+        {
+          "file": "sounds/02921_ja_to_upracem.mp3",
+          "label": "Ja to upracem",
+          "sha256": "2e66873f6fd56dec56b87bd560b35d5312c250f653ad37504189eb0adc379b97"
+        },
+        {
+          "file": "sounds/11018_ututlate_to.mp3",
+          "label": "Ututlate to",
+          "sha256": "2ac6ff139a47047c38c6b0fab263111fa1ec81ec8c3e0978194a4897581c61d7"
+        },
+        {
+          "file": "sounds/11636_zkus_ma_zastavit.mp3",
+          "label": "Zkus ma zastaviť",
+          "sha256": "1394971e298c93b6f0b78525110320655f264a479d2768c4725ff0bd660d0493"
+        },
+        {
+          "file": "sounds/10156_mame_viac_zbrani.mp3",
+          "label": "Mame viac zbrani",
+          "sha256": "b0658d8fca7110b1b12d55630714c39f9b0436b611dee85269389ba910786456"
+        },
+        {
+          "file": "sounds/03528_ja_a_moji_kamosi_ti_to_garantujeme.mp3",
+          "label": "Ja a moji kamosi ti to garantujeme",
+          "sha256": "3df06eb0eb3a9af26c69b7b407e49c1f80749b0fcb2d25995ed8d2d5a3298551"
+        },
+        {
+          "file": "sounds/02109_okej_ja_dakujem.mp3",
+          "label": "Okej, ja ďakujem",
+          "sha256": "92320b985c84e4d709a1876be50b1aebdaf0111217d7cccb243fc4e533ee5615"
+        },
+        {
+          "file": "sounds/00912_ano_ty_labus.mp3",
+          "label": "Ano ty labus",
+          "sha256": "9bde8f38fb47d78193bfb35e6a15678a6c29fa5b4cf1626fef729942ba9ea8ca"
+        },
+        {
+          "file": "sounds/00420_nebednal_si_si.mp3",
+          "label": "Nebednal si si",
+          "sha256": "405656ea164e91b3e1d7cfaab1be6cc434807dd2fd4b42d4d199cd955c70363b"
+        },
+        {
+          "file": "sounds/00804_urobis_co_ti_poviem.mp3",
+          "label": "Urobis co ti poviem",
+          "sha256": "a78fedd8859558ea6e2fd7a1448dc4b75f00488be0dc75d920bf33a120e04311"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/02106_dobra_praca_chalan.mp3",
+          "label": "Dobra praca chalan",
+          "sha256": "0351d2260098ffd966c7e7ef61c357b722ffdf36f60790c9b858596fa2db204a"
+        },
+        {
+          "file": "sounds/10622_kurva_to_sa_ti_podarilo.mp3",
+          "label": "Kurva to sa ti podarilo",
+          "sha256": "d4a0d9ab1807eb7e61576e78fdc4c5e5a6c0c7db81b389771cbfda09ac4f07da"
+        },
+        {
+          "file": "sounds/10126_bol_to_paradny_obchod.mp3",
+          "label": "Bol to paradny obchod",
+          "sha256": "5b7a6543428c02e12295eacc0660b4c0e97480860ecd643ed2819092d5744d5c"
+        },
+        {
+          "file": "sounds/11239_spica.mp3",
+          "label": "Špica",
+          "sha256": "1ae50d084551c23e7b2db0eb485a42684291d9318ea4671cbbd79eba5f44f79b"
+        },
+        {
+          "file": "sounds/11403_rickert_uz_nieje_panic.mp3",
+          "label": "Rickert už nieje panic",
+          "sha256": "f90a0c98ab9f1f4b016e6c9439b5a430c7c52e085fa05d5a5263252564d67fc1"
+        },
+        {
+          "file": "sounds/03431_si_dobry_chalan.mp3",
+          "label": "Si dobry chalan",
+          "sha256": "4d77a215653b8afe6dee22457ef6c9b29a0a47cb0dcd8f70cd8025f77436537a"
+        },
+        {
+          "file": "sounds/01512_prachy_zadarmo.mp3",
+          "label": "Prachy zadarmo",
+          "sha256": "c5d60ca2442321159fb2b7fda73f0b1bde54ff282ff0467ddfecdc5ef81f3629"
+        },
+        {
+          "file": "sounds/01732_som_tvojim_dlznikom.mp3",
+          "label": "Som tvojim dlžnikom",
+          "sha256": "e65bdddf3ab7cef7e1ea483eb0a9b791633c9554dbac278474a594fc49c69035"
+        },
+        {
+          "file": "sounds/02708_tisic_eur.mp3",
+          "label": "Tisic eur",
+          "sha256": "7f4b618f5f71676a36524a1d571addd7012ce96008e6904257ca09d7b83f32ef"
+        },
+        {
+          "file": "sounds/11050_to_je_za_gradieho_kurva.mp3",
+          "label": "To je za gradieho kurva",
+          "sha256": "12f36774ba8f74238e8799f99bdcff0402297ea9720b000fe4570ff28c604718"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/00538_ty_kreten.mp3",
+          "label": "Ty kreten",
+          "sha256": "eddeefb8ba8c4bb3a7787ea0b082004c566129d0e8ffd6b8e8ad2ced7bc923c5"
+        },
+        {
+          "file": "sounds/00618_kurna_kurna_kurna.mp3",
+          "label": "Kurna kurna kurna",
+          "sha256": "a038a19eb784f869625cfe1ceb0f11ea6119061f80e02e1da5d76e64a85b5d49"
+        },
+        {
+          "file": "sounds/01255_ty_retardovany_bastard.mp3",
+          "label": "Ty retardovany bastard",
+          "sha256": "978a77cff5fe46b15979cb880171180962d56a72b0f6d5c9f9d7ae3ef14c7a1f"
+        },
+        {
+          "file": "sounds/01934_no_dopice.mp3",
+          "label": "No dopiče",
+          "sha256": "fd00aa5c99412fddc4ae2becc5fde9f9ffd3ad40beda795093bec23da746d161"
+        },
+        {
+          "file": "sounds/02036_no_doriti.mp3",
+          "label": "No doriti",
+          "sha256": "ca8c83e6b126d640e6ee14840ab8865156d4ae8e7ba39f572670bed6a505ffa0"
+        },
+        {
+          "file": "sounds/02217_kokot.mp3",
+          "label": "Kokot",
+          "sha256": "756dab59a239b3bfe49bc888ae0a3c4bc4a6e79a8716c1a852925629d5b8404e"
+        },
+        {
+          "file": "sounds/02253_nekontrolovatelny_chaos_hotova_pohroma.mp3",
+          "label": "Nekontrolovatelny chaos, hotova pohroma",
+          "sha256": "8f062474694c305718c3e0f001a443d610eb1ea745c9290bc077b9a991675139"
+        },
+        {
+          "file": "sounds/03101_kurna.mp3",
+          "label": "Kurna",
+          "sha256": "565cc36adcb8690215b631613ec10b46a01d94809e3d348546233ebb034cbd90"
+        },
+        {
+          "file": "sounds/03119_to_co_si_jebem_ti.mp3",
+          "label": "To co si jebem ti",
+          "sha256": "643d64abcfb10f83330799aafffa54acb0e431991b4b43b163130cb53548fa22"
+        },
+        {
+          "file": "sounds/04321_ty_vydrbany_kokoti.mp3",
+          "label": "Ty vydrbany kokoti",
+          "sha256": "c013e7994fa5c326b19c5be3783c64d6bcae24471afeab848be5db1abee2950d"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/10016_cozepomoc.mp3",
+          "label": "Cozepomoc",
+          "sha256": "a783c55de12ead9a62a8cbb0f414ce37e222ae17b2cee5127578f5abf6a1d111"
+        },
+        {
+          "file": "sounds/01949_ze_co.mp3",
+          "label": "Že čo",
+          "sha256": "5a113a70332d306158359e54aa7911dcbce4f8573e846096e399630265fbb922"
+        },
+        {
+          "file": "sounds/02411_co_si_povedal.mp3",
+          "label": "Čo si povedal",
+          "sha256": "fa06425392c2b25df72fae3fc41065656857a6242609ec8ba3104e4c46263c37"
+        },
+        {
+          "file": "sounds/10747_prisahas.mp3",
+          "label": "Prisahas",
+          "sha256": "1b33ecbb73527abe2039c0622c13ff2afd5a532ca2985fa1ff50fa0ce2e38d5e"
+        },
+        {
+          "file": "sounds/10750_A_nezacnes_sazpravat_cudne.mp3",
+          "label": "A nezačneš sazprávat čudně",
+          "sha256": "6d6b2937efe9e0fb559e9b5c56c8c999063115d3974262d07be7bf5dfefa95e1"
+        },
+        {
+          "file": "sounds/10602_chod_s_tim_blize_a_mir.mp3",
+          "label": "Chod s tim blize a mir",
+          "sha256": "310b7e9c1d5f2ef629ab4dec33fe8c84a9172444628d4a0450c26d35ce80a1b5"
+        },
+        {
+          "file": "sounds/05419_neviem.mp3",
+          "label": "Neviem",
+          "sha256": "664dd1342117bd3919e7c05d68438c6031c6c66ea47305d49cccc6735a69d79f"
+        },
+        {
+          "file": "sounds/01302_nevidim_hm.mp3",
+          "label": "Nevidim hm",
+          "sha256": "47b590c7f2013900d87f576917c1fddc986bc7e4519b10df60feb6812a8487a5"
+        },
+        {
+          "file": "sounds/04752_urob_ma.mp3",
+          "label": "Urob ma",
+          "sha256": "ad825a3955ff1dd06c978a51375863d58f56fcc828cb7f45712099770c760d32"
+        },
+        {
+          "file": "sounds/03843_sustred_sa_tam.mp3",
+          "label": "Sustred sa tam",
+          "sha256": "2a96d4b4bd01aa38a2ff9d3a8094bbd11995768c16559b909fa1ba33a38a19f2"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/02148_nemam_prachy_ty_kokot.mp3",
+          "label": "Nemam prachy ty kokot",
+          "sha256": "3f17261c0215456825c57d64c3dbcfd0a5d6a685d0e30f88999b34246846c482"
+        },
+        {
+          "file": "sounds/01824_daj_nam_viac_prachov_picus.mp3",
+          "label": "Daj nám viac prachov pičus",
+          "sha256": "c1265427334043e8f954d3ea92c46c9c2d80b0e6022bbdb9fbfade2e2bb48b07"
+        },
+        {
+          "file": "sounds/01031_vydrbana_sprosta_kriza.mp3",
+          "label": "Vydrbana sprosta kriza",
+          "sha256": "9e9911437040ad7ba7297af4d08999a66adbaae16d4c5eb3b584280f5e71edcb"
+        },
+        {
+          "file": "sounds/00327_som_hladny.mp3",
+          "label": "Som hladny",
+          "sha256": "2dc26f240e36003a70a4fcfdc80b126bc83419f9be30bebfcf4d0d4605cb1d82"
+        },
+        {
+          "file": "sounds/05549_som_hladny.mp3",
+          "label": "Som hladny",
+          "sha256": "e34c6e2d634b74188209070009df299da7dc29c4b15068dfa02aa52c15a7b236"
+        },
+        {
+          "file": "sounds/11629_ty_mala_kurva_visis_mi_prachy.mp3",
+          "label": "Ty malá kurva, visíš mi prachy",
+          "sha256": "e73f429c56e9f12dd5276e1bf3a425804ffc44845b31b7468adc0c700c584792"
+        },
+        {
+          "file": "sounds/03613_moje_koleso_ty_kokos.mp3",
+          "label": "Moje koleso ty kokos",
+          "sha256": "0319c598a56f823bed0d187598aaaa0a109ce047ded2cb613447f086fabf3bf6"
+        },
+        {
+          "file": "sounds/00513_nedotykaj_sa_mojich_nugetek_ty_koko.mp3",
+          "label": "Nedotykaj sa mojich nugetek ty koko",
+          "sha256": "05b6f3831826fab5ae41c3d470b7bcd6046234fd152ba00671f22e360cdcf556"
+        },
+        {
+          "file": "sounds/02704_to_to_je_uz_privela.mp3",
+          "label": "To to je už priveľa",
+          "sha256": "c86b0d4e1aeaf8e72dec7f82531665e4c2c3456935e45c0d7f05922a9d84d144"
+        },
+        {
+          "file": "sounds/04255_na_stene_je_hovno.mp3",
+          "label": "Na stene je hovno",
+          "sha256": "88ccbadf287d678138a73fcab3325a647a6e9187ba7f1e0aa5b473db2450e41b"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/11632_drz_hubu_ty_vytraseny_picus.mp3",
+          "label": "Drž hubu ty vytraseny pičus",
+          "sha256": "d50eb70d6035ef2ce5a153941f016c90778c6679f161ec2c24ffda90b20e6b17"
+        },
+        {
+          "file": "sounds/02529_drz_uz_hubu_ty_stetka.mp3",
+          "label": "Drž už hubu ty štetka",
+          "sha256": "cc16f0d8a15c80e9a111f0cb15f27863e3da14b7b1069b357978492ce521dd4f"
+        },
+        {
+          "file": "sounds/02157_toto_nebudeme_tolerovat.mp3",
+          "label": "Toto nebudeme tolerovať",
+          "sha256": "74ca49097196c7b5ac28f8bfa71e3680e2c831fcd2581b71b790361f07985b97"
+        },
+        {
+          "file": "sounds/02152_a_teraz_vypadni.mp3",
+          "label": "A teraz vypadni",
+          "sha256": "7c9b7117324a25a021a6fd94a33d07dffb12872b37eabb3aa0426661ce86aec8"
+        },
+        {
+          "file": "sounds/02343_vypadnite_debili.mp3",
+          "label": "Vypadnite debili",
+          "sha256": "c2d0283a099fdf06965b49dda30ef7c461a00d6791ac8498218b4bdb2b78fde7"
+        },
+        {
+          "file": "sounds/04522_Vies_co_mi_mozes.mp3",
+          "label": "Vieš čo mi móžeš",
+          "sha256": "bb4cd91c26d45d097650a4bee2d6163f43329afd6156d4701ed856bbd74b81f6"
+        },
+        {
+          "file": "sounds/00729_hej_co_to_robis.mp3",
+          "label": "Hej co to robis",
+          "sha256": "a4a0c3022bca52e40b2318a2661a9a9f193c9693077641c91135fb4990fdc74c"
+        },
+        {
+          "file": "sounds/00734_co_tam_stvaras.mp3",
+          "label": "Co tam stvaras",
+          "sha256": "87ee19b53f2050ac2e60d9b7f51cc36da24cf65eda88234703091ab9a14fa6f3"
+        },
+        {
+          "file": "sounds/01348_si_normalny.mp3",
+          "label": "Si normalny",
+          "sha256": "2115039459bd962cdf41b6d6b9da957c453450b86929b59565fbded803722a2c"
+        },
+        {
+          "file": "sounds/01718_co_ti_drbe.mp3",
+          "label": "Čo ti drbe",
+          "sha256": "934f7c37356805333ade0348c9dc120eb2daefaf8514a4611e422913157491f8"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/00447_majsa.mp3",
+          "label": "Majsa",
+          "sha256": "d312eec59a3a6e84ba617f8d2f4660c18d40f8515430d1de7823a29d94a1a5e4"
+        },
+        {
+          "file": "sounds/01737_majsa.mp3",
+          "label": "Majsa",
+          "sha256": "098f1d36d0fe481a43e60e590ad9ee2134e98460a754e6c788c87976f9b71826"
+        },
+        {
+          "file": "sounds/02445_majsa.mp3",
+          "label": "Majsa",
+          "sha256": "6e4626f5d1660e0da532e625f4e534d4d330e910ba7dca28fd136b42f474c870"
+        },
+        {
+          "file": "sounds/03554_tak_sa_maj.mp3",
+          "label": "Tak sa maj",
+          "sha256": "949409ccb3ebacd16ec044d5c4d798c4968acfe13c8a9f86a91c7214ec874c17"
+        },
+        {
+          "file": "sounds/03450_maj_sa_starky.mp3",
+          "label": "Maj sa starky",
+          "sha256": "5a3b788b2207fe37aea52978dbceb4685696c023004cbb53ecebcffb96d34695"
+        },
+        {
+          "file": "sounds/00558_bomba_je_vikend.mp3",
+          "label": "Bomba je vikend",
+          "sha256": "47e069cb72d48719dae3e3a0196cae5c0d5d7615950a79ddfae3049b324ffe5e"
+        },
+        {
+          "file": "sounds/01515_podme_na_pivo.mp3",
+          "label": "Poďme na pivo",
+          "sha256": "9d68ec76841d915007db56f7a8018de83d1b33e2b3d3eb79d0d713f504855543"
+        },
+        {
+          "file": "sounds/02103_tu_su_dvere.mp3",
+          "label": "Tu su dvere",
+          "sha256": "2b5ed4b9ea9399617ac5b5326b9ddccab9bd2a919cf20cfdee61a257ab7c807a"
+        },
+        {
+          "file": "sounds/04008_a_to_som_si_chtal_iba_zasukat.mp3",
+          "label": "A to som si chtal iba zasukat",
+          "sha256": "e81f881e603d1c32b99d46f7ed15ac0f43e13c3bbe44f37a65a4a42903cae96c"
+        },
+        {
+          "file": "sounds/02019_ak_vas_tu_este_niekedy_uvidim_bez_vahani_vas_zabijem_vy_kurvy.mp3",
+          "label": "Ak vás tu ešte niekedy uvidim, bez vahani vas zabijem, vy kurvy",
+          "sha256": "add68afb05c387eb3a31be9172f10326865e958757f34b977d85b74e5e0ebfa5"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/00317_som_v_pohode.mp3",
+          "label": "Som v pohode",
+          "sha256": "08da2724613f7abfcf1016aaf426e19404a9f25341b81beae5efeaa4d067cbcf"
+        },
+        {
+          "file": "sounds/00739_pianko_pohodicka.mp3",
+          "label": "Pianko pohodicka",
+          "sha256": "4fabfad94516bded84e0ef0cb780ee45e8e33889e3477b7acfe51676f67b8c6b"
+        },
+        {
+          "file": "sounds/01600_lemra.mp3",
+          "label": "Lemra",
+          "sha256": "ab3f2e6a9018d08a9a79dc796d4c78d3379b100b6a99ec70a1832919ea00461d"
+        },
+        {
+          "file": "sounds/04057_pokrocili_prekvapivo_rychlo.mp3",
+          "label": "Pokrocili prekvapivo rychlo",
+          "sha256": "9fac938dc0af25d81799a0ce0fc91f49260387d88dad8d48d6abd45fdc98d59b"
+        },
+        {
+          "file": "sounds/05718_nieje_to_take_zle.mp3",
+          "label": "Nieje to take zle",
+          "sha256": "6605f6fd8719fb0e87853fc4bf3cf90e906b7908780d0ae5942cce2cfb534890"
+        },
+        {
+          "file": "sounds/10740_nudila_som_sa.mp3",
+          "label": "Nudila som sa",
+          "sha256": "de9cc611b98345a15cd9adf3c21bbae92f76383d2dfc24fa3938172f8b8acd96"
+        },
+        {
+          "file": "sounds/03843_sustred_sa_tam.mp3",
+          "label": "Sustred sa tam",
+          "sha256": "2a96d4b4bd01aa38a2ff9d3a8094bbd11995768c16559b909fa1ba33a38a19f2"
+        },
+        {
+          "file": "sounds/11636_zkus_ma_zastavit.mp3",
+          "label": "Zkus ma zastaviť",
+          "sha256": "1394971e298c93b6f0b78525110320655f264a479d2768c4725ff0bd660d0493"
+        },
+        {
+          "file": "sounds/02253_nekontrolovatelny_chaos_hotova_pohroma.mp3",
+          "label": "Nekontrolovatelny chaos, hotova pohroma",
+          "sha256": "8f062474694c305718c3e0f001a443d610eb1ea745c9290bc077b9a991675139"
+        },
+        {
+          "file": "sounds/00209_to_bol_pekne_zkurveny_motyl.mp3",
+          "label": "To bol pekne zkurveny motyl",
+          "sha256": "465936996d863df7c965f329a00db59540a47e690f9f08b427e9eb980cfdebbc"
+        }
+      ]
+    }
+  }
+}
