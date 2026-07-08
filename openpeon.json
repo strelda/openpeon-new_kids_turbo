@@ -29,39 +29,9 @@
           "sha256": "a78fedd8859558ea6e2fd7a1448dc4b75f00488be0dc75d920bf33a120e04311"
         },
         {
-          "file": "sounds/11218_v_maskantje_se_nedame.mp3",
-          "label": "V maskantje se nedame",
-          "sha256": "51f852977b8388f41abbd1fd92ee6d4b746aa89861c7500ee47f620e9d384d35"
-        },
-        {
           "file": "sounds/01752_napis_si_nase_mena_ty_exot.mp3",
           "label": "Napiš si naše mená ty exot",
           "sha256": "bb420c6e841e6e1fe87fc978c982ae7f51886dbae49b49bbee999ccfed9d39ac"
-        },
-        {
-          "file": "sounds/01756_richard_batsbak.mp3",
-          "label": "Richard batsbak",
-          "sha256": "3e6179c7ef079d14ac97f31df5da8f1f7c5096b9a6f07f8165e9d5060f83f7f7"
-        },
-        {
-          "file": "sounds/01759_robbie_schurmans.mp3",
-          "label": "Robbie schurmans",
-          "sha256": "13c3e12895c4f92df4ae73eb4f5a27cae88820c513fdfa9ca184bdab609f21a5"
-        },
-        {
-          "file": "sounds/01801_rickert_bimants.mp3",
-          "label": "Rickert bimants",
-          "sha256": "10f0a8077a3980115ff7e10534a020367d03104d0c3228c5bf41ef053ef9acf3"
-        },
-        {
-          "file": "sounds/01803_barry_butsers.mp3",
-          "label": "Barry butsers",
-          "sha256": "86744a495c9eebe052e6d6127449fba554cc92ecf8cdea6b711a233b6d401420"
-        },
-        {
-          "file": "sounds/00739_pianko_pohodicka.mp3",
-          "label": "Pianko pohodicka",
-          "sha256": "4fabfad94516bded84e0ef0cb780ee45e8e33889e3477b7acfe51676f67b8c6b"
         }
       ]
     },
@@ -78,19 +48,9 @@
           "sha256": "2e66873f6fd56dec56b87bd560b35d5312c250f653ad37504189eb0adc379b97"
         },
         {
-          "file": "sounds/11018_ututlate_to.mp3",
-          "label": "Ututlate to",
-          "sha256": "2ac6ff139a47047c38c6b0fab263111fa1ec81ec8c3e0978194a4897581c61d7"
-        },
-        {
           "file": "sounds/11636_zkus_ma_zastavit.mp3",
           "label": "Zkus ma zastaviť",
           "sha256": "1394971e298c93b6f0b78525110320655f264a479d2768c4725ff0bd660d0493"
-        },
-        {
-          "file": "sounds/10156_mame_viac_zbrani.mp3",
-          "label": "Mame viac zbrani",
-          "sha256": "b0658d8fca7110b1b12d55630714c39f9b0436b611dee85269389ba910786456"
         },
         {
           "file": "sounds/03528_ja_a_moji_kamosi_ti_to_garantujeme.mp3",
@@ -101,16 +61,6 @@
           "file": "sounds/02109_okej_ja_dakujem.mp3",
           "label": "Okej, ja ďakujem",
           "sha256": "92320b985c84e4d709a1876be50b1aebdaf0111217d7cccb243fc4e533ee5615"
-        },
-        {
-          "file": "sounds/00912_ano_ty_labus.mp3",
-          "label": "Ano ty labus",
-          "sha256": "9bde8f38fb47d78193bfb35e6a15678a6c29fa5b4cf1626fef729942ba9ea8ca"
-        },
-        {
-          "file": "sounds/00420_nebednal_si_si.mp3",
-          "label": "Nebednal si si",
-          "sha256": "405656ea164e91b3e1d7cfaab1be6cc434807dd2fd4b42d4d199cd955c70363b"
         },
         {
           "file": "sounds/00804_urobis_co_ti_poviem.mp3",
@@ -142,34 +92,14 @@
           "sha256": "1ae50d084551c23e7b2db0eb485a42684291d9318ea4671cbbd79eba5f44f79b"
         },
         {
-          "file": "sounds/11403_rickert_uz_nieje_panic.mp3",
-          "label": "Rickert už nieje panic",
-          "sha256": "f90a0c98ab9f1f4b016e6c9439b5a430c7c52e085fa05d5a5263252564d67fc1"
-        },
-        {
-          "file": "sounds/03431_si_dobry_chalan.mp3",
-          "label": "Si dobry chalan",
-          "sha256": "4d77a215653b8afe6dee22457ef6c9b29a0a47cb0dcd8f70cd8025f77436537a"
-        },
-        {
           "file": "sounds/01512_prachy_zadarmo.mp3",
           "label": "Prachy zadarmo",
           "sha256": "c5d60ca2442321159fb2b7fda73f0b1bde54ff282ff0467ddfecdc5ef81f3629"
         },
         {
-          "file": "sounds/01732_som_tvojim_dlznikom.mp3",
-          "label": "Som tvojim dlžnikom",
-          "sha256": "e65bdddf3ab7cef7e1ea483eb0a9b791633c9554dbac278474a594fc49c69035"
-        },
-        {
           "file": "sounds/02708_tisic_eur.mp3",
           "label": "Tisic eur",
           "sha256": "7f4b618f5f71676a36524a1d571addd7012ce96008e6904257ca09d7b83f32ef"
-        },
-        {
-          "file": "sounds/11050_to_je_za_gradieho_kurva.mp3",
-          "label": "To je za gradieho kurva",
-          "sha256": "12f36774ba8f74238e8799f99bdcff0402297ea9720b000fe4570ff28c604718"
         }
       ]
     },
@@ -184,6 +114,11 @@
           "file": "sounds/00618_kurna_kurna_kurna.mp3",
           "label": "Kurna kurna kurna",
           "sha256": "a038a19eb784f869625cfe1ceb0f11ea6119061f80e02e1da5d76e64a85b5d49"
+        },
+        {
+          "file": "sounds/00420_nebednal_si_si.mp3",
+          "label": "Nebednal si si",
+          "sha256": "405656ea164e91b3e1d7cfaab1be6cc434807dd2fd4b42d4d199cd955c70363b"
         },
         {
           "file": "sounds/01255_ty_retardovany_bastard.mp3",
@@ -224,6 +159,11 @@
           "file": "sounds/04321_ty_vydrbany_kokoti.mp3",
           "label": "Ty vydrbany kokoti",
           "sha256": "c013e7994fa5c326b19c5be3783c64d6bcae24471afeab848be5db1abee2950d"
+        },
+        {
+          "file": "sounds/04255_na_stene_je_hovno.mp3",
+          "label": "Na stene je hovno",
+          "sha256": "88ccbadf287d678138a73fcab3325a647a6e9187ba7f1e0aa5b473db2450e41b"
         }
       ]
     },
@@ -245,16 +185,6 @@
           "sha256": "fa06425392c2b25df72fae3fc41065656857a6242609ec8ba3104e4c46263c37"
         },
         {
-          "file": "sounds/10747_prisahas.mp3",
-          "label": "Prisahas",
-          "sha256": "1b33ecbb73527abe2039c0622c13ff2afd5a532ca2985fa1ff50fa0ce2e38d5e"
-        },
-        {
-          "file": "sounds/10750_A_nezacnes_sazpravat_cudne.mp3",
-          "label": "A nezačneš sazprávat čudně",
-          "sha256": "6d6b2937efe9e0fb559e9b5c56c8c999063115d3974262d07be7bf5dfefa95e1"
-        },
-        {
           "file": "sounds/10602_chod_s_tim_blize_a_mir.mp3",
           "label": "Chod s tim blize a mir",
           "sha256": "310b7e9c1d5f2ef629ab4dec33fe8c84a9172444628d4a0450c26d35ce80a1b5"
@@ -273,11 +203,6 @@
           "file": "sounds/04752_urob_ma.mp3",
           "label": "Urob ma",
           "sha256": "ad825a3955ff1dd06c978a51375863d58f56fcc828cb7f45712099770c760d32"
-        },
-        {
-          "file": "sounds/03843_sustred_sa_tam.mp3",
-          "label": "Sustred sa tam",
-          "sha256": "2a96d4b4bd01aa38a2ff9d3a8094bbd11995768c16559b909fa1ba33a38a19f2"
         }
       ]
     },
@@ -304,34 +229,9 @@
           "sha256": "2dc26f240e36003a70a4fcfdc80b126bc83419f9be30bebfcf4d0d4605cb1d82"
         },
         {
-          "file": "sounds/05549_som_hladny.mp3",
-          "label": "Som hladny",
-          "sha256": "e34c6e2d634b74188209070009df299da7dc29c4b15068dfa02aa52c15a7b236"
-        },
-        {
           "file": "sounds/11629_ty_mala_kurva_visis_mi_prachy.mp3",
           "label": "Ty malá kurva, visíš mi prachy",
           "sha256": "e73f429c56e9f12dd5276e1bf3a425804ffc44845b31b7468adc0c700c584792"
-        },
-        {
-          "file": "sounds/03613_moje_koleso_ty_kokos.mp3",
-          "label": "Moje koleso ty kokos",
-          "sha256": "0319c598a56f823bed0d187598aaaa0a109ce047ded2cb613447f086fabf3bf6"
-        },
-        {
-          "file": "sounds/00513_nedotykaj_sa_mojich_nugetek_ty_koko.mp3",
-          "label": "Nedotykaj sa mojich nugetek ty koko",
-          "sha256": "05b6f3831826fab5ae41c3d470b7bcd6046234fd152ba00671f22e360cdcf556"
-        },
-        {
-          "file": "sounds/02704_to_to_je_uz_privela.mp3",
-          "label": "To to je už priveľa",
-          "sha256": "c86b0d4e1aeaf8e72dec7f82531665e4c2c3456935e45c0d7f05922a9d84d144"
-        },
-        {
-          "file": "sounds/04255_na_stene_je_hovno.mp3",
-          "label": "Na stene je hovno",
-          "sha256": "88ccbadf287d678138a73fcab3325a647a6e9187ba7f1e0aa5b473db2450e41b"
         }
       ]
     },
@@ -397,16 +297,6 @@
           "sha256": "d312eec59a3a6e84ba617f8d2f4660c18d40f8515430d1de7823a29d94a1a5e4"
         },
         {
-          "file": "sounds/01737_majsa.mp3",
-          "label": "Majsa",
-          "sha256": "098f1d36d0fe481a43e60e590ad9ee2134e98460a754e6c788c87976f9b71826"
-        },
-        {
-          "file": "sounds/02445_majsa.mp3",
-          "label": "Majsa",
-          "sha256": "6e4626f5d1660e0da532e625f4e534d4d330e910ba7dca28fd136b42f474c870"
-        },
-        {
           "file": "sounds/03554_tak_sa_maj.mp3",
           "label": "Tak sa maj",
           "sha256": "949409ccb3ebacd16ec044d5c4d798c4968acfe13c8a9f86a91c7214ec874c17"
@@ -430,11 +320,6 @@
           "file": "sounds/02103_tu_su_dvere.mp3",
           "label": "Tu su dvere",
           "sha256": "2b5ed4b9ea9399617ac5b5326b9ddccab9bd2a919cf20cfdee61a257ab7c807a"
-        },
-        {
-          "file": "sounds/04008_a_to_som_si_chtal_iba_zasukat.mp3",
-          "label": "A to som si chtal iba zasukat",
-          "sha256": "e81f881e603d1c32b99d46f7ed15ac0f43e13c3bbe44f37a65a4a42903cae96c"
         },
         {
           "file": "sounds/02019_ak_vas_tu_este_niekedy_uvidim_bez_vahani_vas_zabijem_vy_kurvy.mp3",
@@ -464,36 +349,6 @@
           "file": "sounds/04057_pokrocili_prekvapivo_rychlo.mp3",
           "label": "Pokrocili prekvapivo rychlo",
           "sha256": "9fac938dc0af25d81799a0ce0fc91f49260387d88dad8d48d6abd45fdc98d59b"
-        },
-        {
-          "file": "sounds/05718_nieje_to_take_zle.mp3",
-          "label": "Nieje to take zle",
-          "sha256": "6605f6fd8719fb0e87853fc4bf3cf90e906b7908780d0ae5942cce2cfb534890"
-        },
-        {
-          "file": "sounds/10740_nudila_som_sa.mp3",
-          "label": "Nudila som sa",
-          "sha256": "de9cc611b98345a15cd9adf3c21bbae92f76383d2dfc24fa3938172f8b8acd96"
-        },
-        {
-          "file": "sounds/03843_sustred_sa_tam.mp3",
-          "label": "Sustred sa tam",
-          "sha256": "2a96d4b4bd01aa38a2ff9d3a8094bbd11995768c16559b909fa1ba33a38a19f2"
-        },
-        {
-          "file": "sounds/11636_zkus_ma_zastavit.mp3",
-          "label": "Zkus ma zastaviť",
-          "sha256": "1394971e298c93b6f0b78525110320655f264a479d2768c4725ff0bd660d0493"
-        },
-        {
-          "file": "sounds/02253_nekontrolovatelny_chaos_hotova_pohroma.mp3",
-          "label": "Nekontrolovatelny chaos, hotova pohroma",
-          "sha256": "8f062474694c305718c3e0f001a443d610eb1ea745c9290bc077b9a991675139"
-        },
-        {
-          "file": "sounds/00209_to_bol_pekne_zkurveny_motyl.mp3",
-          "label": "To bol pekne zkurveny motyl",
-          "sha256": "465936996d863df7c965f329a00db59540a47e690f9f08b427e9eb980cfdebbc"
         }
       ]
     }
