@@ -38,9 +38,9 @@ Ensure the cloned repository is correctly positioned:
 Once cloned into the correct directory, activate the sound pack within your client:
 * **For CLI tools or IDE extensions:** Open your client configuration (e.g., config file or settings) and set the active sound pack name to `new-kids-turbo`.
 * **Via command line (if supported by your client):**
-  ```bash
-  peon-ping select new-kids-turbo
-  ```
+```bash
+peon packs use new-kids-turbo
+```
 
 ## License
 
