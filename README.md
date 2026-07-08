@@ -45,3 +45,5 @@ Once cloned into the correct directory, activate the sound pack within your clie
 ## License
 
 This sound pack is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC-BY-NC-4.0)** license. The original audio snippets belong to the creators of the movie *New Kids Turbo*.
+
+Special thanks to TM, from whose site I obtained the audio.
